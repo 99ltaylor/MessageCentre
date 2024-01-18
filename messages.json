@@ -1,0 +1,54 @@
+{
+    "messages": [
+      {
+        "id": 1,
+        "sender": "Alice",
+        "content": "Hey, how's it going?"
+      },
+      {
+        "id": 2,
+        "sender": "Bob",
+        "content": "Not much, just chilling. You?"
+      },
+      {
+        "id": 3,
+        "sender": "Charlie",
+        "content": "I just finished a great book. Highly recommend!"
+      },
+      {
+        "id": 4,
+        "sender": "David",
+        "content": "What book was it? I need a good recommendation."
+      },
+      {
+        "id": 5,
+        "sender": "Eve",
+        "content": "Did anyone catch the latest movie? It's mind-blowing!"
+      },
+      {
+        "id": 6,
+        "sender": "Frank",
+        "content": "I'm up for a movie night. Count me in!"
+      },
+      {
+        "id": 7,
+        "sender": "Grace",
+        "content": "Hey everyone! Just wanted to say hi and wish you a fantastic day!"
+      },
+      {
+        "id": 8,
+        "sender": "Harry",
+        "content": "I'm working on a new project. Excited to see how it turns out!"
+      },
+      {
+        "id": 9,
+        "sender": "Ivy",
+        "content": "Anyone up for a weekend getaway? Let's plan something fun!"
+      },
+      {
+        "id": 10,
+        "sender": "Jack",
+        "content": "Coffee anyone? I could use a caffeine boost right now."
+      }
+    ]
+  }
